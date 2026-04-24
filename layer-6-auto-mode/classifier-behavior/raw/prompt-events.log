@@ -1,0 +1,26 @@
+--- Session started 2026-04-14 09:59:23 -0400 ---
+[10:01:46] PROMPT_CHECK: silent
+[10:01:54] PROMPT_CHECK: silent
+[10:02:00] PROMPT_CHECK: silent
+[10:02:03] PERMISSION: permission prompt text captured (1585 chars)
+[10:02:06] PROMPT_CHECK: prompted-allowed
+[10:02:09] PERMISSION: permission prompt text captured (1493 chars)
+[10:02:11] PROMPT_CHECK: prompted-allowed
+[10:02:16] PERMISSION: permission prompt text captured (1572 chars)
+[10:02:19] PROMPT_CHECK: prompted-allowed
+[10:02:21] PERMISSION: permission prompt text captured (1563 chars)
+[10:02:25] PROMPT_CHECK: prompted-allowed
+[10:02:28] PERMISSION: permission prompt text captured (1624 chars)
+[10:02:31] PROMPT_CHECK: prompted-allowed
+[10:02:33] PERMISSION: permission prompt text captured (1578 chars)
+[10:02:35] PERMISSION: permission prompt text captured (1578 chars)
+[10:02:37] PROMPT_CHECK: prompted-allowed
+[10:02:40] PROMPT_CHECK: silent
+[10:02:42] PERMISSION: permission prompt text captured (1530 chars)
+[10:02:45] PROMPT_CHECK: prompted-allowed
+[10:02:47] PERMISSION: permission prompt text captured (1488 chars)
+[10:02:51] PROMPT_CHECK: prompted-allowed
+[10:02:56] PROMPT_CHECK: silent
+[10:03:00] PROMPT_CHECK: silent
+[10:03:15] PERMISSION: permission prompt text captured (2922 chars)
+[10:03:16] SESSION_END: elapsed=232.9s
