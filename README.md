@@ -1,6 +1,6 @@
 # claude-permissions-layer-receipts
 
-Receipts for a blog post. If the [Permission Layers article on pickles.dev](https://pickles.dev/) (link forthcoming) says "I ran X and got Y," the X and the Y are here.
+Receipts for a blog post. If [Claude Code's Permission Layers: A Map of the Territory](https://pickles.dev/claude-codes-permission-layers-a-map-of-the-territory/) says "I ran X and got Y," the X and the Y are here.
 
 Each receipt is a small directory containing the Claude Code settings under test (`config.yml`), the prompt given to Claude (`prompt.md`), the outcome table where the harness produced one (`results.md`), and the raw `PreToolUse`/`PermissionRequest`/`PostToolUse` events logged by a hook (`raw/hook-events.jsonl`). A few probe-style receipts have `raw/prompt-events.log` instead; it's the same shape of data captured by a different runner.
 
